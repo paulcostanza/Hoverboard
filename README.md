@@ -1,2 +1,17 @@
-# Hoverboard
-Paint the squares and watch them fade away
+# HoverBoard
+
+## CSS
+> paint boxes on the screen with CSS - transitions for fade out effect
+
+## JavaScript
+> mouse over/mouse out event listeners
+> give you an array of random colors
+
+
+
+would like to add different selectors like:
+> colors
+> size of squares
+> duration of time
+
+**_Note:_** project is still currently in the works!!
