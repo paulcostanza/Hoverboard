@@ -15,3 +15,5 @@ would like to add different selectors like:
 > duration of time
 
 **_Note:_** project is still currently in the works!!
+
+[However, click here to check out the current demo of the app](https://paulcostanza.github.io/Hoverboard/)
